@@ -7,7 +7,7 @@ A VS Code extension to allow handing over control of VS Code to Neuro/Evil, the 
 [Extension documentation](https://vsc-neuropilot.github.io/docs) | [VS Marketplace listing](https://marketplace.visualstudio.com/item?itemName=Pasu4.neuropilot) | [Check out Vedal, Neuro and Evil on Twitch! (not affiliated)](https://twitch.tv/vedal987)
 
 > [!CAUTION]
-> Depending on the permissions you activate and which of the aforementioned testing tools / AIs you use, this extension can be quite destructive to your system. No contributors of this project take any responsibility for the harm this extension can cause. If you're concerned about permissions, use Copilot mode on NeuroPilot for dangerous permissions or use all extensions on a virtual machine/container.
+> Depending on the permissions you activate and what testing tools / AIs you use, NeuroPilot can be quite destructive to your system. No contributors or maintainers of this project take any responsibility for the harm this extension can cause in any capacity. If you're concerned about permissions, use Copilot mode on NeuroPilot for dangerous permissions or use all extensions on a virtual machine/container.
 
 ## Repositories
 
