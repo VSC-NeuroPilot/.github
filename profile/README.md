@@ -27,3 +27,8 @@
 
 - [Python](https://github.com/VSC-NeuroPilot/python-pip-image)
 - [Node.js + TypeScript](https://github.com/VSC-NeuroPilot/node.ts-image)
+
+### Meta
+
+- [Docs](https://github.com/VSC-NeuroPilot/docs)
+- [Unit test coverage reporting](https://github.com/VSC-NeuroPilot/unit-tests)
