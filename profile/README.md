@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/VSC-NeuroPilot/neuropilot/blob/master/assets/neuropilot.png" width="256">
-  <img src="https://github.com/VSC-NeuroPilot/neuropilot/blob/master/assets/heart-xaendril.png" width="256">
-  <img src="https://github.com/VSC-NeuroPilot/neuropilot/blob/master/assets/evilpilot.png" width="256">
+  <img src="https://github.com/VSC-NeuroPilot/docs/blob/master/src/assets/neuropilot.svg" width="256">
+  <img src="https://github.com/VSC-NeuroPilot/docs/blob/master/src/assets/heart-xaendril.png" width="256">
+  <img src="https://github.com/VSC-NeuroPilot/docs/blob/master/src/assets/evilpilot.svg" width="256">
 </p>
 
 # <p align="center">NeuroPilot (technically can be called EvilPilot)</p>
