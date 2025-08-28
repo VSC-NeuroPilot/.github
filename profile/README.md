@@ -4,7 +4,7 @@
   <img src="https://github.com/VSC-NeuroPilot/docs/blob/master/src/assets/evilpilot.svg" width="256">
 </p>
 
-# <p align="center">NeuroPilot (technically can be called EvilPilot)</p>
+# <p align="center">NeuroPilot (technically can also be called EvilPilot)</p>
 
 <p align="center">A VS Code extension to allow handing over control of VS Code to Neuro/Evil, the twin AI streamers on Twitch.</p>
 
@@ -32,3 +32,4 @@
 
 - [Docs](https://github.com/VSC-NeuroPilot/docs)
 - [Unit test coverage reporting](https://github.com/VSC-NeuroPilot/unit-tests)
+- [Custom actions](https://github.com/VSC-NeuroPilot/actions)
