@@ -40,4 +40,6 @@ Links:
 
 ### Other projects
 
+- neurontainer: [Repo](https://github.com/VSC-NeuroPilot/neurontainer) / [Docker Hub](https://hub.docker.com/r/ktrain5369/neurontainer) / [GitHub Container Registry](https://github.com/VSC-NeuroPilot/neurontainer/pkgs/container/neurontainer)
+
 From time to time, we also contribute to other projects, especially ones in the Neuro API "ecosystem".
